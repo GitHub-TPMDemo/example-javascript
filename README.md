@@ -11,4 +11,4 @@ srcclr activate
 srcclr scan --url https://github.com/srcclr/example-javascript
 ```
 
-Testing scan1
+Testing scan - pushpa policy
